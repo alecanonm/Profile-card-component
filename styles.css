@@ -24,7 +24,7 @@ body {
   z-index: -1;
 }
 
-.bg-pattern-top {
+.top {
   position: absolute;
   left: -50em;
   top: -30em;
@@ -34,7 +34,7 @@ body {
   }
 }
 
-.bg-pattern-bottom {
+.bottom {
   position: absolute;
 
   bottom: -80em;
